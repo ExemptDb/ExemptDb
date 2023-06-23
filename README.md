@@ -1,7 +1,9 @@
 -👋 Hi, I’m @ExemptDb
 - ┌──(arch㉿linux)-[/mnt/c/Users/Exempt] └─$
-- 🖥️ This PC
+- 🖥️ @root
 -  └📂User
 -  └📂 Exempt
--  └📂 DB
--     └⚠️  Unknow file
+-    └📂 DB
+-       └⚠️  DB In Progress...
+-    └📂 Hacking Tools
+-         └⚠️  280+ GB shit
