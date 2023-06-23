@@ -1,0 +1,5 @@
+-👋 Hi, I’m @ExemptDb
+- ┌──(arch㉿linux)-[/mnt/c/Users/Exempt] └─$
+-  📂 Exempt
+-   └📂 DB
+-     └⚠️  This File is over 250.6 GB
